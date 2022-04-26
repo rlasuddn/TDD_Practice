@@ -1,0 +1,22 @@
+{
+    "name": "tdd-app",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "express": "^4.17.3",
+        "mongoose": "^6.2.10"
+    },
+    "devDependencies": {
+        "jest": "^27.5.1",
+        "node-mocks-http": "^1.11.0",
+        "nodemon": "^2.0.15",
+        "supertest": "^6.2.2"
+    }
+}

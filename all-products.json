@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Gloves",
+        "description": "good to wear",
+        "price": 10
+    },
+    {
+        "name": "phone",
+        "description": "good Samsung",
+        "price": 20
+    },
+    {
+        "name": "book",
+        "description": "good",
+        "price": 3
+    }
+]
